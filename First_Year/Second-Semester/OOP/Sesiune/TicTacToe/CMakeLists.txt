@@ -24,7 +24,6 @@ add_executable(TicTacToe
         service/Service.h
         service/ServiceException.h
         service/Service.cpp
-        UI/GameWindow.h
         UI/MainGUI.h
         service/Observable.h
         UI/JocTableModel.h)
